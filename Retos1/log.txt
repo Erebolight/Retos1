@@ -1,5 +1,18 @@
-commit 6518d446e0f5757434c0c81407fd39b41c6c5e1b (HEAD -> main, origin/main)
+commit 00d74a4e8eca46dc226f7842d39f85601186b6dc (HEAD -> main, origin/main)
+Author: Erebolight <mauricio99carrascoj@gmail.com>
+Date:   Tue Apr 18 14:52:25 2023 -0600
+
+    se borro el nombre de hola para cambiarlo a logs
+
+commit 84437511f2d75f7f035975cb7aaa8be921a9607d
+Author: Erebolight <mauricio99carrascoj@gmail.com>
+Date:   Tue Apr 18 14:52:10 2023 -0600
+
+    logs en la carpeta 1
+
+commit 6518d446e0f5757434c0c81407fd39b41c6c5e1b
 Author: Erebolight <mauricio99carrascoj@gmail.com>
 Date:   Tue Apr 18 14:50:01 2023 -0600
 
     Second comit
+
