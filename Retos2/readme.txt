@@ -1,0 +1,1 @@
+Se hizo de 2 maneras con git clone y bajando el directorio local mente y subiendolo a github manualmente
